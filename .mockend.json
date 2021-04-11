@@ -1,5 +1,5 @@
 {
-    "records": {
+    "Record": {
         "id": "int",
         "date": "date",
         "particulars": "string",
