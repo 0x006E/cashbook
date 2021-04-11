@@ -1,0 +1,11 @@
+{
+    "records": {
+        "id": "int",
+        "date": "date",
+        "particulars": "string",
+        "bank": "int",
+        "cash": "int",
+        "type": "string",
+        "createdAt": "date"
+    }
+}
